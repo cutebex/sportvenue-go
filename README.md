@@ -29,6 +29,9 @@
   ```
 
   - Use `http://localhost:8080` as base url for endpoints
+### Vercel
+https://sportvenue-go-vercel.vercel.app/
+
 
 ## How can I improve the current code base
 1. In a typical backend architecture using the Router-Controller-Service-Model structure, the Router handles incoming requests and routes them to appropriate controllers, the Controller manages the request, calling upon services for business logic, the Service layer contains business logic and interacts with the Model, and the Model represents the data structure and directly manages the data, logic, and rules of the application.
